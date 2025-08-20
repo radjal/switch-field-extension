@@ -1,6 +1,6 @@
 ﻿{
   "manifest_version": 3,
-  "name": "Reveal Password (Context Menu)",
+  "name": "Password Field Toggle (Context Menu)",
   "version": "1.0.0",
   "description": "Adds a context menu option to reveal the focused password field as plain text (and toggle back).",
   "permissions": [
@@ -18,6 +18,6 @@
     "128": "icons/icon128.png"
   },
   "action": {
-    "default_title": "Reveal Password"
+    "default_title": "Toggle Password"
   }
 }
